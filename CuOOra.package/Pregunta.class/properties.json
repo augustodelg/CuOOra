@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Publicacion",
+	"category" : "CuOOra",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"titulo",
+		"respuestas",
+		"topicosRelacionados"
+	],
+	"name" : "Pregunta",
+	"type" : "normal"
+}

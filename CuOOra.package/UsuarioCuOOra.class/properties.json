@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "CuOOra",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nombreUsuario",
+		"contraseña",
+		"fechaCreacion",
+		"topicoDeInteres",
+		"seguidos"
+	],
+	"name" : "UsuarioCuOOra",
+	"type" : "normal"
+}

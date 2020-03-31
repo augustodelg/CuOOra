@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Publicacion",
+	"category" : "CuOOra",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Respuesta",
+	"type" : "normal"
+}
