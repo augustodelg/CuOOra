@@ -1,3 +1,3 @@
 private
-titulo: unTitulo
-	titulo := unTitulo
+titulo: anObject
+	titulo := anObject
