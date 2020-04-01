@@ -7,6 +7,7 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"usuario1",
+		"usuario2",
 		"topico1",
 		"respuesta1",
 		"pregunta"
