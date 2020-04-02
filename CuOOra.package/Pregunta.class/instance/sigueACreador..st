@@ -1,3 +1,3 @@
 as yet unclassified
 sigueACreador: unUsuario
-	^ unUsuario sigoA: usuario .
+	^ unUsuario sigoA: self meRealizo
