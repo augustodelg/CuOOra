@@ -1,5 +1,5 @@
 constructor
 usuario: unUsuario contenido: unContenido
 	^ self new
-		meRealizo:  unUsuario;
+		usuario:  unUsuario;
 		contenido: unContenido

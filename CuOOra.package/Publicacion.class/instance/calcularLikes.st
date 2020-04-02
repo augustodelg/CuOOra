@@ -1,3 +1,3 @@
 likesYDeslikes
 calcularLikes
-	^ likes size - disLikes size
+	^ self likes - self disLikes .
