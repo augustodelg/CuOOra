@@ -10,7 +10,9 @@
 		"contraseña",
 		"fechaCreacion",
 		"topicoDeInteres",
-		"seguidos"
+		"seguidos",
+		"respuestas",
+		"preguntas"
 	],
 	"name" : "UsuarioCuOOra",
 	"type" : "normal"
