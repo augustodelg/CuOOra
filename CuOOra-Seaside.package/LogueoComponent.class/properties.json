@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ComponentesDeAcceso",
+	"category" : "CuOOra-Seaside",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LogueoComponent",
+	"type" : "normal"
+}

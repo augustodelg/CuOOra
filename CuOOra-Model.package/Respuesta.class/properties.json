@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Publicacion",
+	"category" : "CuOOra-Model-CuOOra-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"preguntaCorrespondiente"
+	],
+	"name" : "Respuesta",
+	"type" : "normal"
+}

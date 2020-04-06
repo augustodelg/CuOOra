@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "CuOOra-Model-CuOOra-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fechaDeCreacion",
+		"realizo"
+	],
+	"name" : "Voto",
+	"type" : "normal"
+}

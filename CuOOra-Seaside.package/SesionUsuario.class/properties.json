@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "WASession",
+	"category" : "CuOOra-Seaside",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"user"
+	],
+	"name" : "SesionUsuario",
+	"type" : "normal"
+}
