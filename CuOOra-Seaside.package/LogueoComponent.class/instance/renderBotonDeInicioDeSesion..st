@@ -3,4 +3,4 @@ renderBotonDeInicioDeSesion: aCanvas
 
 	aCanvas submitButton 
 		callback: [ self login ];
-		with: 'Iniciar Secion'
+		with: 'Iniciar Sesion'

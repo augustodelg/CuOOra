@@ -6,8 +6,10 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"preguntaTitulo",
-		"preguntaDescripcion"
+		"tituloPregunta",
+		"descripcionPregunta",
+		"topicosPregun",
+		"model"
 	],
 	"name" : "NuevaPreguntaComponent",
 	"type" : "normal"
