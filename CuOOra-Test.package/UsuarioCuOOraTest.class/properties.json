@@ -11,7 +11,10 @@
 		"topico",
 		"topico2",
 		"topico3",
-		"topico4"
+		"topico4",
+		"pregunta1",
+		"pregunta2",
+		"pregunta3"
 	],
 	"name" : "UsuarioCuOOraTest",
 	"type" : "normal"

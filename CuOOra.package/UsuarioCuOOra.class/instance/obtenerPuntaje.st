@@ -1,3 +1,6 @@
 actions
 obtenerPuntaje
-	^ (preguntas size * 20 )+ (respuestas size * 50)
+	| respuestasAOtrosUsuarios |
+	respuestasAOtrosUsuarios := respuestas
+		count: [ :each | each teRealizo:  self ].
+	^ preguntas size * 20 + (respuestasAOtrosUsuarios * 50)

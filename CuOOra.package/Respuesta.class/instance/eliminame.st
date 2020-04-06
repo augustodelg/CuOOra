@@ -1,4 +1,5 @@
 actions
 eliminame
 
-	usuario eliminarRespuesta: self.
+	self meRealizo eliminarRespuesta: self.
+	preguntaCorrespondiente eliminarRespuesta: self.

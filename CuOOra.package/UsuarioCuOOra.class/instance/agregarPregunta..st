@@ -1,4 +1,4 @@
 actions
-crearPregunta: unaPregunta
+agregarPregunta: unaPregunta
 
 	preguntas add: unaPregunta .

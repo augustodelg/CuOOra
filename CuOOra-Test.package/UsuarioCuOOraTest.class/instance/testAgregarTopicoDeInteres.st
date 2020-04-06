@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testAgregarTopicoDeInteres
 	|unaColeccion|
 	unaColeccion := OrderedCollection new.
