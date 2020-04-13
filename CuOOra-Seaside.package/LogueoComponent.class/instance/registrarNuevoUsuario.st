@@ -1,4 +1,4 @@
 callback
 registrarNuevoUsuario 
 
-	self call: RegistroComponent new.
+	self call: RegistroComponent new

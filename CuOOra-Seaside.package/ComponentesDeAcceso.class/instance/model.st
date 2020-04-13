@@ -1,4 +1,0 @@
-model
-model 
-
-	^SistemaCuOOra soleInstance .

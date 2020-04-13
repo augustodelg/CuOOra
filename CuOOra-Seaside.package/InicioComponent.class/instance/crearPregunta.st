@@ -1,3 +1,3 @@
-as yet unclassified
+callback
 crearPregunta
 	self call: NuevaPreguntaComponent new.
