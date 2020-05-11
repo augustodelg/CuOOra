@@ -5,8 +5,8 @@ Proyecto Objetos 2 UNLP INFORMATICA
 * Augusto Del Grosso
 
 ## Construido con 🛠️
-* [Pharo](https://pharo.org/) - Lenguaje de Programacion
-* [Smalltalks](https://es.wikipedia.org/wiki/Smalltalk) 
+* [Pharo](https://pharo.org/)  
+* [Smalltalks](https://es.wikipedia.org/wiki/Smalltalk) - Lenguaje de Programacion
 * [Seaside](http://www.seaside.st/) - Framework para aplicaciones web
 
 ### Instalación 🔧
