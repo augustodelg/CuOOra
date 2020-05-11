@@ -16,4 +16,4 @@ Utilizando Pharo:
   Clone el repositorio con Iceberg
   Para acceder a el proyecto ingrese a : http://127.0.0.1:8080/cuoora
 ```
-![UML MODELO](doc/UML MODELO CuOOra.png)
+(doc/UML MODELO CuOOra.png)
