@@ -1,0 +1,4 @@
+actions
+eliminame
+
+	self subclassResponsibility .

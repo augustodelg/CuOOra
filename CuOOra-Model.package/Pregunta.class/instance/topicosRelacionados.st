@@ -1,0 +1,3 @@
+accessing
+topicosRelacionados
+	^ topicosRelacionados
