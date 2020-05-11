@@ -1,5 +1,4 @@
-as yet unclassified
+actions
 seguir: unUsuario
-	seguidos
-		detect: [ :a | a sigoA: unUsuario ]
-		ifNone: [ seguidos add: unUsuario ]
+	unUsuario == self
+		ifFalse: [ seguidos add: unUsuario ] .

@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "Publicacion",
-	"category" : "CuOOra",
+	"category" : "CuOOra-Model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

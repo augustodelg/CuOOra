@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "UserComponent",
+	"category" : "CuOOra-Seaside",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tituloPregunta",
+		"descripcionPregunta",
+		"topicosPregun"
+	],
+	"name" : "NuevaPreguntaComponent",
+	"type" : "normal"
+}

@@ -1,8 +1,10 @@
 {
 	"commentStamp" : "",
 	"super" : "Object",
-	"category" : "CuOOra",
-	"classinstvars" : [ ],
+	"category" : "CuOOra-Model",
+	"classinstvars" : [
+		"soleInstance"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [

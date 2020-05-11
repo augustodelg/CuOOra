@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "UserComponent",
+	"category" : "CuOOra-Seaside",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"user"
+	],
+	"name" : "PerfilComponent",
+	"type" : "normal"
+}

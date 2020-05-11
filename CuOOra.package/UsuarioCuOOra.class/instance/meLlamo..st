@@ -1,4 +1,4 @@
-as yet unclassified
+actions
 meLlamo: unNombre
 	unNombre = self nombreUsuario
 		ifTrue: [ ^ true ].

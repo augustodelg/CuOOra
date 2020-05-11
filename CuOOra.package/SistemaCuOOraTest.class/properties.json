@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "CuOOra-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sistema",
+		"usuario",
+		"topico",
+		"pregunta",
+		"ColeccionPreguntas"
+	],
+	"name" : "SistemaCuOOraTest",
+	"type" : "normal"
+}

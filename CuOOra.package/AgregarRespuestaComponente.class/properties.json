@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "DetallePregunta",
+	"category" : "CuOOra-Seaside",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"textoRespuesta"
+	],
+	"name" : "AgregarRespuestaComponente",
+	"type" : "normal"
+}
