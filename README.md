@@ -13,6 +13,6 @@ Proyecto Objetos 2 UNLP INFORMATICA
 
 ```
 Utilizando Pharo:
-  Clone el repositorio con **Iceberg **
-  Para acceder a el proyecto ingrese a :** http://127.0.0.1:8080/cuoora **
+  Clone el repositorio con **Iceberg**
+  Para acceder a el proyecto ingrese a :**http://127.0.0.1:8080/cuoora**
 ```
